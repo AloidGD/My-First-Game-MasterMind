@@ -1,0 +1,47 @@
+C:/Users/aleja/Documents/03 Programación/MasterMindSolution/MasterMind/bin/Debug/net5.0/MasterMind.exe
+C:/Users/aleja/Documents/03 Programación/MasterMindSolution/MasterMind/bin/Debug/net5.0/MasterMind.deps.json
+C:/Users/aleja/Documents/03 Programación/MasterMindSolution/MasterMind/bin/Debug/net5.0/MasterMind.runtimeconfig.json
+C:/Users/aleja/Documents/03 Programación/MasterMindSolution/MasterMind/bin/Debug/net5.0/MasterMind.runtimeconfig.dev.json
+C:/Users/aleja/Documents/03 Programación/MasterMindSolution/MasterMind/bin/Debug/net5.0/MasterMind.dll
+C:/Users/aleja/Documents/03 Programación/MasterMindSolution/MasterMind/bin/Debug/net5.0/ref/MasterMind.dll
+C:/Users/aleja/Documents/03 Programación/MasterMindSolution/MasterMind/bin/Debug/net5.0/MasterMind.pdb
+C:/Users/aleja/Documents/03 Programación/MasterMindSolution/MasterMind/obj/Debug/net5.0/MasterMind.csproj.AssemblyReference.cache
+C:/Users/aleja/Documents/03 Programación/MasterMindSolution/MasterMind/obj/Debug/net5.0/MasterMind.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/aleja/Documents/03 Programación/MasterMindSolution/MasterMind/obj/Debug/net5.0/MasterMind.AssemblyInfoInputs.cache
+C:/Users/aleja/Documents/03 Programación/MasterMindSolution/MasterMind/obj/Debug/net5.0/MasterMind.AssemblyInfo.cs
+C:/Users/aleja/Documents/03 Programación/MasterMindSolution/MasterMind/obj/Debug/net5.0/MasterMind.csproj.CoreCompileInputs.cache
+C:/Users/aleja/Documents/03 Programación/MasterMindSolution/MasterMind/obj/Debug/net5.0/MasterMind.dll
+C:/Users/aleja/Documents/03 Programación/MasterMindSolution/MasterMind/obj/Debug/net5.0/ref/MasterMind.dll
+C:/Users/aleja/Documents/03 Programación/MasterMindSolution/MasterMind/obj/Debug/net5.0/MasterMind.pdb
+C:/Users/aleja/Documents/03 Programación/MasterMindSolution/MasterMind/obj/Debug/net5.0/MasterMind.genruntimeconfig.cache
+/dades/dades/Alejandro Olid DAMv/03  Programación/MasterMindSolution_AlejandroOlid/MasterMind/bin/Debug/net5.0/MasterMind
+/dades/dades/Alejandro Olid DAMv/03  Programación/MasterMindSolution_AlejandroOlid/MasterMind/bin/Debug/net5.0/MasterMind.dll
+/dades/dades/Alejandro Olid DAMv/03  Programación/MasterMindSolution_AlejandroOlid/MasterMind/bin/Debug/net5.0/MasterMind.pdb
+/dades/dades/Alejandro Olid DAMv/03  Programación/MasterMindSolution_AlejandroOlid/MasterMind/bin/Debug/net5.0/MasterMind.xml
+/dades/dades/Alejandro Olid DAMv/03  Programación/MasterMindSolution_AlejandroOlid/MasterMind/obj/Debug/net5.0/MasterMind.csproj.AssemblyReference.cache
+/dades/dades/Alejandro Olid DAMv/03  Programación/MasterMindSolution_AlejandroOlid/MasterMind/obj/Debug/net5.0/MasterMind.GeneratedMSBuildEditorConfig.editorconfig
+/dades/dades/Alejandro Olid DAMv/03  Programación/MasterMindSolution_AlejandroOlid/MasterMind/obj/Debug/net5.0/MasterMind.AssemblyInfoInputs.cache
+/dades/dades/Alejandro Olid DAMv/03  Programación/MasterMindSolution_AlejandroOlid/MasterMind/obj/Debug/net5.0/MasterMind.AssemblyInfo.cs
+/dades/dades/Alejandro Olid DAMv/03  Programación/MasterMindSolution_AlejandroOlid/MasterMind/obj/Debug/net5.0/MasterMind.csproj.CoreCompileInputs.cache
+/dades/dades/Alejandro Olid DAMv/03  Programación/MasterMindSolution_AlejandroOlid/MasterMind/obj/Debug/net5.0/MasterMind.dll
+/dades/dades/Alejandro Olid DAMv/03  Programación/MasterMindSolution_AlejandroOlid/MasterMind/obj/Debug/net5.0/ref/MasterMind.dll
+/dades/dades/Alejandro Olid DAMv/03  Programación/MasterMindSolution_AlejandroOlid/MasterMind/obj/Debug/net5.0/MasterMind.pdb
+C:\Users\aleja\Documents\Proyectos de clase\MasterMindSolution_AlejandroOlid\MasterMind\bin\Debug\net5.0\MasterMind.exe
+C:\Users\aleja\Documents\Proyectos de clase\MasterMindSolution_AlejandroOlid\MasterMind\bin\Debug\net5.0\MasterMind.deps.json
+C:\Users\aleja\Documents\Proyectos de clase\MasterMindSolution_AlejandroOlid\MasterMind\bin\Debug\net5.0\MasterMind.runtimeconfig.json
+C:\Users\aleja\Documents\Proyectos de clase\MasterMindSolution_AlejandroOlid\MasterMind\bin\Debug\net5.0\MasterMind.runtimeconfig.dev.json
+C:\Users\aleja\Documents\Proyectos de clase\MasterMindSolution_AlejandroOlid\MasterMind\bin\Debug\net5.0\MasterMind.dll
+C:\Users\aleja\Documents\Proyectos de clase\MasterMindSolution_AlejandroOlid\MasterMind\bin\Debug\net5.0\MasterMind.pdb
+C:\Users\aleja\Documents\Proyectos de clase\MasterMindSolution_AlejandroOlid\MasterMind\bin\Debug\net5.0\MasterMind.xml
+C:\Users\aleja\Documents\Proyectos de clase\MasterMindSolution_AlejandroOlid\MasterMind\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aleja\Documents\Proyectos de clase\MasterMindSolution_AlejandroOlid\MasterMind\obj\Debug\net5.0\MasterMind.csproj.AssemblyReference.cache
+C:\Users\aleja\Documents\Proyectos de clase\MasterMindSolution_AlejandroOlid\MasterMind\obj\Debug\net5.0\MasterMind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Documents\Proyectos de clase\MasterMindSolution_AlejandroOlid\MasterMind\obj\Debug\net5.0\MasterMind.AssemblyInfoInputs.cache
+C:\Users\aleja\Documents\Proyectos de clase\MasterMindSolution_AlejandroOlid\MasterMind\obj\Debug\net5.0\MasterMind.AssemblyInfo.cs
+C:\Users\aleja\Documents\Proyectos de clase\MasterMindSolution_AlejandroOlid\MasterMind\obj\Debug\net5.0\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Documents\Proyectos de clase\MasterMindSolution_AlejandroOlid\MasterMind\obj\Debug\net5.0\MasterMind.csproj.CopyComplete
+C:\Users\aleja\Documents\Proyectos de clase\MasterMindSolution_AlejandroOlid\MasterMind\obj\Debug\net5.0\MasterMind.dll
+C:\Users\aleja\Documents\Proyectos de clase\MasterMindSolution_AlejandroOlid\MasterMind\obj\Debug\net5.0\refint\MasterMind.dll
+C:\Users\aleja\Documents\Proyectos de clase\MasterMindSolution_AlejandroOlid\MasterMind\obj\Debug\net5.0\MasterMind.pdb
+C:\Users\aleja\Documents\Proyectos de clase\MasterMindSolution_AlejandroOlid\MasterMind\obj\Debug\net5.0\MasterMind.genruntimeconfig.cache
+C:\Users\aleja\Documents\Proyectos de clase\MasterMindSolution_AlejandroOlid\MasterMind\obj\Debug\net5.0\ref\MasterMind.dll

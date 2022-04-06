@@ -1,0 +1,55 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=02389532_002D5145_002D4998_002Dab3d_002De74c6634a52d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NewStringSecretCharsTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::314BA6B7-6E93-4944-8794-5B309DE4B909::net5.0::TestProjectMasterMind.Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=19ed53d5_002De23b_002D4024_002D979b_002Db528771629b2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckRightPositionTest #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::314BA6B7-6E93-4944-8794-5B309DE4B909::net5.0::TestProjectMasterMind.InputTest.CheckRightPositionTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1d08e95d_002D4ff4_002D4f7d_002Db9a0_002D2676120491c6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckRightPositionTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::314BA6B7-6E93-4944-8794-5B309DE4B909::net5.0::TestProjectMasterMind.InputTest.CheckRightPositionTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3b9b6127_002D25fd_002D4e89_002D80ec_002D1576ecc3659a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckRightPositionTest #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::314BA6B7-6E93-4944-8794-5B309DE4B909::net5.0::TestProjectMasterMind.InputTest.CheckRightPositionTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=561d6a64_002Dac0b_002D4d60_002Dabf1_002D97797fc7e2c4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SetDirectoryMyDocsLinuxTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::314BA6B7-6E93-4944-8794-5B309DE4B909::net5.0::TestProjectMasterMind.FilesAndDirectorysTest.SetDirectoryMyDocsLinuxTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=96536ea6_002Dc148_002D4ef6_002D92b9_002Dc21ddf3e0a9e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckRightPositionTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::314BA6B7-6E93-4944-8794-5B309DE4B909::net5.0::TestProjectMasterMind.InputTest.CheckRightPositionTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=99a7dac9_002D7e1e_002D4947_002D99bd_002D8aafad01d6af/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SetDirectoryMyDocsWindowsTest #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::314BA6B7-6E93-4944-8794-5B309DE4B909::net5.0::TestProjectMasterMind.Test.CreateFileJsonTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f468a2f7_002D5422_002D4a76_002Db6cb_002D01f2900448e3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckRightPositionTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::314BA6B7-6E93-4944-8794-5B309DE4B909::net5.0::TestProjectMasterMind.InputTest.CheckRightPositionTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	</wpf:ResourceDictionary>

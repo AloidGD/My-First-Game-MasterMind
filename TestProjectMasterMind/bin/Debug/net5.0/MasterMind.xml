@@ -1,0 +1,291 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MasterMind</name>
+    </assembly>
+    <members>
+        <member name="T:MasterMind.FilesAndDirectorysMm">
+            <summary>
+            Métodos para manejar ficheros y archivos
+            </summary>
+        </member>
+        <member name="M:MasterMind.FilesAndDirectorysMm.SetDirectoryMyDocs">
+            <summary>
+            Método para mostrar el directorio actual
+            </summary>
+        </member>
+        <member name="M:MasterMind.FilesAndDirectorysMm.CreateFileJson(System.String)">
+            <summary>
+            método para crear un archivo de texto
+            </summary>
+            <param name="fileJson">
+            archivo Json
+            </param>
+        </member>
+        <member name="M:MasterMind.FilesAndDirectorysMm.UpdateFileRanking(System.String,System.Int32)">
+            <summary>
+            Actualizar el archivo de ranking con un jugador nuevo
+            </summary>
+            <param name="namePlayer">
+            Nombre Jugador
+            </param>
+            <param name="attempts">
+            Número de intentos del jugador 
+            </param>
+        </member>
+        <member name="T:MasterMind.InputMm">
+            <summary>
+            Métodos para introducir datos por consola
+            </summary>
+        </member>
+        <member name="M:MasterMind.InputMm.InsertGuess(System.Int32)">
+            <summary>
+            Método para introducir una combinación 
+            </summary>
+            <param name="intentos">
+            Número entero y positivo que representa los intentos del juego
+            </param>
+            <returns>
+            string combinación de carácteres
+            </returns>
+        </member>
+        <member name="M:MasterMind.InputMm.PlayAgain">
+            <summary>
+            Método para introducir una opción (jugar de nuevo)
+            </summary>
+            <returns>
+            string puede ser "si" o "no"
+            </returns>
+        </member>
+        <member name="M:MasterMind.InputMm.OptionSafeResults">
+            <summary>
+            Método para introducir una opción (guardar los resultados)
+            </summary>
+            <returns>
+            string puede ser "si" o "no"
+            </returns>
+        </member>
+        <member name="M:MasterMind.InputMm.OptionShowRanking">
+            <summary>
+            Método para introducir una opción (ver ranking)
+            </summary>
+            <returns>
+            string puede ser "si" o "no"
+            </returns>
+        </member>
+        <member name="M:MasterMind.InputMm.InsertName">
+            <summary>
+            Método para introducir el nombre del jugador
+            </summary>
+            <returns>
+            string Nombre del jugador
+            </returns>
+        </member>
+        <member name="T:MasterMind.OutputMm">
+            <summary>
+            métodos para mostrar por consola información
+            </summary>
+        </member>
+        <member name="M:MasterMind.OutputMm.ShowRanking">
+            <summary>
+             método para preguntar si el jugador quiere entrar en el ranking
+            </summary>
+            <returns>
+            variable para comprobar si modificar el ranking
+            </returns>
+        </member>
+        <member name="M:MasterMind.OutputMm.ReadKeyAndClean">
+            <summary>
+            mostrar el nombre del archivo de texto creado
+            </summary>
+        </member>
+        <member name="M:MasterMind.OutputMm.ShowFileTextCreated(System.String)">
+            <summary>
+            mostrar el nombre del archivo de texto creado
+            </summary>
+            <param name="fileText">
+            archivo de texto
+            </param>
+        </member>
+        <member name="M:MasterMind.OutputMm.WriteHowManyAttempts(System.Int32)">
+            <summary>
+            Muestra por consola cuantos intentos quedan para finalizar el juego
+            </summary>
+            <param name="intentos">
+            Número entero y positivo que representa los intentos del juego
+            </param>
+        </member>
+        <member name="M:MasterMind.OutputMm.WriteQuestionPlayAgain">
+            <summary>
+            Pregunta por consola si el jugador quiere jugar otra vez
+            </summary>
+        </member>
+        <member name="M:MasterMind.OutputMm.ShowErrorOnly4Chars">
+            <summary>
+            Muestra por consola que la combinación debe ser de 4 carácteres
+            </summary>
+        </member>
+        <member name="M:MasterMind.OutputMm.ShowStats(System.Int32,System.Int32)">
+            <summary>
+            método para mostrar número de carácteres adivinados, además si están en posición o no
+            </summary>
+            <param name="rightposition">
+            número entero que represanta el número de carácteres adivinados en su posición correcta
+            </param>
+            <param name="wrongposition">
+            número entero que represanta el número de carácteres adivinados, pero en una posición erronea
+            </param>
+        </member>
+        <member name="M:MasterMind.OutputMm.WriteInsertName">
+            <summary>
+            Pregunta por consola un nombre
+            </summary>
+        </member>
+        <member name="M:MasterMind.OutputMm.WriteQuestionSafeResults">
+            <summary>
+            Pregunta por consola para guardar resultados
+            </summary>
+        </member>
+        <member name="M:MasterMind.OutputMm.WriteQuestionLookRanking">
+            <summary>
+            Pregunta por consola si quieres ver el ranking
+            </summary>
+        </member>
+        <member name="M:MasterMind.OutputMm.Head">
+            <summary>
+            mostrar cabecera del juego y sus instrucciones
+            </summary>
+        </member>
+        <member name="M:MasterMind.OutputMm.WinOrLose(System.Boolean)">
+            <summary>
+            mostrar resultado del juego
+            </summary>
+            <param name="boolWinOrLose">
+            variable que representa si el jugador ha ganado o ha perdido
+            </param>
+        </member>
+        <member name="T:MasterMind.Program">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:MasterMind.RunMm">
+            <summary>
+            instrucciones para ejecutar MasterMind
+            </summary>
+        </member>
+        <member name="M:MasterMind.RunMm.FirstRunMasterMind">
+            <summary>
+            método principal para ejecutar MasterMind y definir directorios
+            </summary>
+        </member>
+        <member name="M:MasterMind.RunMm.MasterMind">
+            <summary>
+            método principal para ejecutar MasterMind
+            </summary>
+        </member>
+        <member name="T:MasterMind.UtilitiesMm">
+            <summary>
+            métodos de utilidad
+            </summary>
+        </member>
+        <member name="M:MasterMind.UtilitiesMm.WinOrLose(System.Int32)">
+            <summary>
+            Método para comprobar si el jugador ha ganado
+            </summary>
+            <param name="rightposition">
+            Número entero que representa los aciertos del jugador
+            </param>
+            <returns>
+            bool que representa si el jugador ha ganado o perdido
+            </returns>
+        </member>
+        <member name="M:MasterMind.UtilitiesMm.CheckWrongPosition(System.String,System.String,System.Int32,System.String)">
+            <summary>
+            Método para comprobar el número de aciertos del jugador de carácteres pero no de posición
+            </summary>
+            <param name="secret">
+            combinación secreta de carácteres para adivinar
+            </param>
+            <param name="guess">
+            combinación de carácteres del jugador 
+            </param>
+            <param name="wrongposition">
+            Número que indica que hay una letra correcta, pero su posición es erronea
+            </param>
+            <param name="adivinado">
+            String de carácteres adivinados por el jugador, es util para hallar el número de wrongposition y rightposition
+            </param>
+            <returns>
+            wrongposition
+            </returns>
+        </member>
+        <member name="M:MasterMind.UtilitiesMm.CheckRightPosition(System.String,System.String,System.Int32,System.String@)">
+            <summary>
+            Método para comprobar el número de aciertos del jugador de carácteres
+            </summary>
+            <param name="secret">
+            combinación secreta de carácteres para adivinar
+            </param>
+            <param name="guess">
+            combinación de carácteres del jugador 
+            </param>
+            <param name="rightposition">
+            Número que indica que hay una letra correcta y en su posición
+            </param>
+            <param name="adivinado">
+            String de carácteres adivinados por el jugador, es util para hallar el número de wrongposition y rightposition
+            </param>
+            <returns>
+            rightposition
+            </returns>
+        </member>
+        <member name="M:MasterMind.UtilitiesMm.RightAndWrongPosition(System.Int32,System.String)">
+            <summary>
+            Método para ejecutar CheckRightPosition y CheckWrongPosition
+            </summary>
+            <param name="attempts">
+            intentos de un jugador
+            </param>
+            <param name="secret">
+            combinación secreta de carácteres para adivinar
+            </param>
+            <returns>
+            rightposition Número que indica que hay una letra correcta y en su posición
+            </returns>
+        </member>
+        <member name="M:MasterMind.UtilitiesMm.NewStringSecret">
+            <summary>
+            Método para generar un string aleatorio de carácteres 4 carácteres entre [A,B,C,D,E,F]
+            </summary>
+            <returns>
+            string aleatorio de carácteres 4 carácteres entre [A,B,C,D,E,F]
+            </returns>
+        </member>
+        <member name="M:MasterMind.UtilitiesMm.CreateRankingPosition(System.Boolean,System.Boolean,System.Int32)">
+            <summary>
+            crear o modificar el ranking del juego
+            </summary>
+            <param name="optionRanking">
+            parametro para saber si quiere introducir un resultado
+            </param>
+            <param name="winOrLose">
+            parametro para saber si ha ganado el juego
+            </param>
+            <param name="attempts">
+            puntuación de un jugador
+            </param>
+        </member>
+        <member name="M:MasterMind.UtilitiesMm.OptionRanking(System.Boolean)">
+            <summary>
+            método para dar la opción de ejecutar el ranking
+            </summary>
+            <param name="winOrLose">
+            parametro para saber si ha ganado el juego
+            </param>
+            <returns>
+            parametro para saber si ejecutar el ranking
+            </returns>
+        </member>
+    </members>
+</doc>
