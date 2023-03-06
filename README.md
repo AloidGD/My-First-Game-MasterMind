@@ -1,5 +1,5 @@
 # MasterMind
-Juego desarrollado en C# durante mi primer curso de DAMvideojuegos
+Juego en la consola de comandos, desarrollado en C# durante mi primer curso de DAMvideojuegos
 
 <img width="506" alt="image" src="https://user-images.githubusercontent.com/93704968/162056244-6dce23ee-8786-47dd-a1ef-b833209c42f4.png">
 
